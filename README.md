@@ -59,7 +59,7 @@ Le rendu du projet est dans le notebook : [01-Speed_Dating_FPr.ipynb](01-Speed_D
 ## Conclusion de l'étude
 
 Le taux de match est faible (~16 %), et l’attractivité perçue apparaît comme le facteur dominant (surtout chez les hommes), tandis que les centres d’intérêt sont faiblement corrélés et que les hommes subissent davantage de rejets.
-En effet, malgré des données très incomplètes (dataswamp) et des résultats non causaux, cette étude exploratoire montre que l’affection mutuelle prime largement sur les critères objectifs, sans prétendre à une vérité universelle.
+En effet, malgré des données très incomplètes (dataswamp) et des résultats non causaux, cette étude exploratoire montre que l’affection mutuelle prime largement sur les critères objectifs.
 On en tire donc des considérations plutôt descriptives même en s'appuyant sur des données chiffrées.  
 Rien n'est rééllement tranché, on est plus sur de la tendance pour comprendre ce qui amène à un deuxième rendez-vous.
 Le deuxième rendez-vous tourne autour du concept d'amabilité assez vague chez l'humain :
@@ -72,5 +72,8 @@ En réalité, tout repose sur le concept assez vague de degré d’affection que
 Il n’existe donc pas de critère unique qui rende quelqu’un “aimable” pour susciter un deuxième rendez-vous.  
 On reste dans le domaine de l'alchimie pour comprendre l'initiation de l'amour voir le coup de foudre.
 Ce qui compte avant tout, c’est le degré d’affection mutuelle, plus que les caractéristiques objectives ou déclarées.  
-Les données ne font donc pas tout pour comprendre l'humain.  
-En cela c'est rassurant car il y a peu de risque que les machines s'appui sur l'intelligence artifcielle pour bien cerner le comportement amoureux humain si même les humains n'y arrivent pas.
+Les données ne font donc pas tout pour comprendre l'humain.
+La dissymétrie sur les caractéristiques qui rendent l'autre attirable entre les hommes et les femmes pousse à essayer de rechercher la mise en avant de critères « communs » d’affection entre homme et femme lors des dtaes.
+Par exemple, l'humour pourrait activer l'aspect fun connectable à l'intelligence.
+  
+En cela c'est rassurant car il y a peu de risque que les machines s'appui sur l'intelligence artificielle pour bien cerner le comportement amoureux humain si même les humains n'y arrivent pas.
